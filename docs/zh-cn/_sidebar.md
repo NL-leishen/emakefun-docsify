@@ -1,6 +1,10 @@
 <!-- docs/_sidebar.md -->
 
-![emakefun](/zh-cn/_media/favicon.jpg)
+<center style="font-size:30px;color:black">
+
+emakefun文档中心
+
+</center>
 
 - [首页](/zh-cn/homepage.md)
 
@@ -8,7 +12,7 @@
   
   - [软件下载](/zh-cn/software/software_download.zh-CN.md)
   - [ArduinoIDE2.0介绍](/zh-cn/software/arduino_ide/arduino_ide.zh-CN.md)
-  - [BlockCode编程](https://app.blockcode.fun/)
+  - [BlockCode编程](/zh-cn/software/blockcode/blockcode_zh-CN.md)
   - [Mixly2.0使用介绍](/zh-cn/software/mixly/mixly.md)
   - [Mind+使用介绍](/zh-cn/software/mind_plus/mindplus.zh-CN.md)
   - [Thonny使用介绍](/zh-cn/software/thonny/thonny.zh-CN.md)
@@ -119,7 +123,7 @@
   - 智能模块
 
     - [BMP280大气压传感器](zh-cn/ph2.0_sensors/smart_module/atmospheric_pressure_sensor/atmospheric_pressure_sensor.md)
-    - [TCS34725颜色识别](/zh-cn/ph2.0_sensors/smart_module/color_recognition/TCS34725_zh-cn.md)
+    - [TCS34725颜色识别](/zh-cn/ph2.0_sensors/smart_module/TCS34725/TCS34725_zh-cn.md)
     - [NLCS11颜色识别](/zh-cn/ph2.0_sensors/smart_module/color_sensor_nlcs11/color_sensor_nlcs11.md)
     - [QMC5883L电子指南针罗盘模块](zh-cn/ph2.0_sensors/smart_module/compass/compass.md)
     - [DS1302时钟模块](zh-cn/ph2.0_sensors/smart_module/ds1302/ds1302_rtc.md)
@@ -182,6 +186,8 @@
   - [io:bit](zh-cn/microbit/IObit/IObit.md)
   - [sensor:bit](zh-cn/microbit/sensorbit/sensorbit.md)
   - [motor:bit](zh-cn/microbit/motorbit/motorbit.md)
+  - [mBit-Hub](zh-cn/microbit/mBit-Hub/mBit-Hub_zh-cn.md)
+  - [金手指扩展板](zh-cn/microbit/gf_io_board/gf_io_board_zh-cn.md)
   - [joysitck:bit](zh-cn/microbit/joystickbit/joystickbit.md)
 
 - 乐鑫esp系类

@@ -10,9 +10,9 @@
 
 ## 原理图
 
-<a href="zh-cn/ph2.0_sensors/sensors/thermal_sensor/thermal_sensor_schematic.pdf" target="_blank">查看原理图</a>
+<a href="zh-cn/ph2.0_sensors/sensors/thermal_sensor/NTC_Thermal_Sensor.pdf" target="_blank">查看原理图</a>
 
-![原理图](picture/thermal_sensor_schematic.png)
+![原理图](picture/thermal_sensor_schematic.jpg)
 
 ## 模块参数
 
@@ -33,6 +33,8 @@
 ## 机械尺寸图
 
 ![机械尺寸图](picture/thermal_sensor_assembly.png)
+
+<a href="zh-cn/ph2.0_sensors/sensors/thermal_sensor/thermal_sensor_3d.zip" download>下载NTC热敏传感器3D文件</a>
 
 ## Arduino示例程序
 
