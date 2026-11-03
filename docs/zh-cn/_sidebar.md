@@ -143,6 +143,7 @@ emakefun文档中心
     - [I2C-IO扩展模块](zh-cn/ph2.0_sensors/smart_module/gpio_expansion_board/gpio_expansion_board.md)
     - [I2C级联扩展器](/zh-cn/ph2.0_sensors/smart_module/i2c_cascade_extender/i2c_cascade_extender.md)
     - [RFID-I2C模块](/zh-cn/ph2.0_sensors/smart_module/rfid_mfrc522/rfid_mfrc522.md)
+    - [NFC-PN532模块](/zh-cn/ph2.0_sensors/smart_module/nfc_pn532/nfc_pn532.md)
     - [I2S-MEMS麦克风模块](zh-cn/ph2.0_sensors/smart_module/i2s_mems_mic/i2s_mems_mic.md)
     - [PDM麦克风模块](zh-cn/ph2.0_sensors/smart_module/pdm_mic/pdm_mic.md)
     - [指纹识别模块](/zh-cn/)
@@ -167,6 +168,7 @@ emakefun文档中心
     - [nano-v3.0](zh-cn/arduino_products/nano/nano/nano.md)
     - [ble-nano](zh-cn/arduino_products/nano/ble-nano/README_zh.md)
     - [rf-nano](zh-cn/arduino_products/nano/rf-nano/README_zh.md)
+    - [lora-nano](zh-cn/arduino_products/nano/lora-nano/README_zh.md)
     - [nano开发者套件](/zh-cn/)
   - Uno系列
     - [arduino_uno_r3](zh-cn/arduino_products/uno/arduino_uno_r3/arduino_uno_r3.md)
@@ -229,7 +231,7 @@ emakefun文档中心
   - [舵机](/zh-cn/peripheral/servo/servo.md)
   - CodexPad
     - [常见遥控器对比](/zh-cn/peripheral/codexpad/wireless_controller_diffrent.md)
-    - [CodexPad-C10](/zh-cn/peripheral/codexpad/codexpad_c10/codexpad_c10.md)
-    - [CodexPad-S10](/zh-cn/peripheral/codexpad/codexpad_s10/codexpad_s10.md)
+    - [CodexPad-C10](https://gitee.com/CodexPad/codex_pad_c10#codexpad-c10)
+    - [CodexPad-S10](https://gitee.com/CodexPad/codex_pad_s10#codexpad-s10)
 
 - [关于我们](/zh-cn/about.md)
