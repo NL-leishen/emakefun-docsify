@@ -2,8 +2,6 @@
 
 ## 一、下载安装Thonny
 
-------
-
 Thonny是一个免费、开源的软件平台，体积小，界面简单，操作简单，功能丰富，是一个适合初学者的Python IDE。在本教程中，我们使用 Thonny 这个IDE在整个实验课程过程中开发ESP32。Thonny支持多种操作系统，包括Windows, Mac OS, Linux。
 
 ### 1.1 Windows系统
@@ -11,8 +9,8 @@ Thonny是一个免费、开源的软件平台，体积小，界面简单，操�
 （1）软件下载和开源代码库分享
 
 - [Thonny的开源代码库](https://github.com/thonny/thonny)
-- [Thonny软件官网](https://thonny.org/)（请根据您的操作系统选择相应的选项下载安装）
 
+- [Thonny软件官网](https://thonny.org/)（请根据您的操作系统选择相应的选项下载安装）
   下载好后，鼠标触碰到下图箭头所示处，会出现Windows官方下载的版本选择。请根据您的操作系统选择相应的版本下载。最好下载最新版，否则可能不支持ESP32。
 
 ![image6](pictures/image6.jpeg)
@@ -80,17 +78,17 @@ Thonny是一个免费、开源的软件平台，体积小，界面简单，操�
 
 ![image23](pictures/image23.jpeg)
 
-| 按钮                              | 功能              |
-| --------------------------------- | ----------------- |
-| ![image24](pictures/image24.jpeg) | 新建              |
-| ![image25](pictures/image25.jpeg) | 打开              |
-| ![image26](pictures/image26.jpeg) | 保存              |
-| ![image27](pictures/image27.jpeg) | 运行当前脚本      |
-| ![image28](pictures/image28.jpeg) | 调试当前脚本      |
-| ![image29](pictures/image29.jpeg) | 步过              |
-| ![image30](pictures/image30.jpeg) | 步进              |
-| ![image31](pictures/image31.jpeg) | 步出              |
-| ![image32](pictures/image32.jpeg) | 恢复执行          |
+| 按钮                                | 功能        |
+| --------------------------------- | --------- |
+| ![image24](pictures/image24.jpeg) | 新建        |
+| ![image25](pictures/image25.jpeg) | 打开        |
+| ![image26](pictures/image26.jpeg) | 保存        |
+| ![image27](pictures/image27.jpeg) | 运行当前脚本    |
+| ![image28](pictures/image28.jpeg) | 调试当前脚本    |
+| ![image29](pictures/image29.jpeg) | 步过        |
+| ![image30](pictures/image30.jpeg) | 步进        |
+| ![image31](pictures/image31.jpeg) | 步出        |
+| ![image32](pictures/image32.jpeg) | 恢复执行      |
 | ![image33](pictures/image33.jpeg) | 停止/重启后端进程 |
 
 ### （2）界面介绍
@@ -110,7 +108,6 @@ Thonny是一个免费、开源的软件平台，体积小，界面简单，操�
 - [microPython官方网站](http://micropython.org/)
 
 - [microPython的ESP32固件](https://micropython.org/download/esp32/)   打开microPython的ESP32固件网址，下载固件。
-
   **注意：本教程以官网V1.20.0固件为示例，现已更新到“ESP32_GENERIC-20231005-v1.21.0”版本，增加了蓝牙下载功能，后期更新的固件以同样的方法进行烧录！！！**
 
 ![image48](pictures/image48.jpeg)

@@ -4,15 +4,9 @@
 
 ​        Mixly是北京师范大学教育学部创客教育实验室负责人傅骞老师及其团队开发的，是一款面向Arduino创意电子的图形化编程工具，完全免费。它完美地支持了Arduino、MicroPython等语言的编程。提供了图形化界面和代码界面对比显示的支持。Mixly还支持自定义第三方扩展库，可以拓展出丰富的功能。
 
-[点击跳转到Mixly官网下载](https://mixly.cn/bnu-maker/mixl2.0rc)
+[点击跳转到Mixly官网下载]([百度网盘-分享文件](https://pan.baidu.com/s/1EdBmAlYFzJ_2rULhKm2g3g?pwd=ny1n#list/path=%2Fsharelink1769297717-616785187177799%2Fmixly%2Fmixly2.0&vmode=list&parentPath=%2Fsharelink1769297717-616785187177799))
 
-点击上面链接，此时跳转到Mixly官网，如下图，
-
-![mixlyDownload](./picture/mixlyDownload.png)
-
- [Mixly2.0 RC4百度云下载链接](https://pan.baidu.com/s/1EdBmAlYFzJ_2rULhKm2g3g?pwd=ny1n)   提取码：ny1n  
-
-点击Mixly2.0文件夹，显示以下文件:
+点击上面链接，此时跳转到Mixly官网，显示以下文件:
 
 ![mixlyDownloadPackage](./picture/mixlyDownloadPackage.png)
 
@@ -32,7 +26,7 @@
 
 ![mixlyInstallArduinoESP32](./picture/mixlyInstallArduinoESP32.png)
 
-也可以下载我们公司已经安装好板卡的软件，[点击下载](https://pan.baidu.com/s/1I1ScRvt-9VacLf29rUzIMw?pwd=5747)请安装在电脑盘符的根目录下。
+也可以下载我们公司已经安装好板卡的软件，[点击下载](https://pan.baidu.com/s/1-ki5a0iOvziBn2rjeff9Tw?pwd=i2xc)请安装在电脑盘符的根目录下。
 
 ## 二、Mixly界面介绍
 

@@ -20,6 +20,10 @@
 
 ![arduino_board_choice](picture/arduino_board_choice.png)
 
+选择好主板后，选择对应的端口
+
+![](./picture/esp32_arduinoide_select_port.png)
+
 将写好程序点击上传按钮，等待程序上传成功，如下图。
 
 ![download](picture/download.png)
