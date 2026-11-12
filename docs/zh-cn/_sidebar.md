@@ -136,7 +136,7 @@ emakefun文档中心
     - [ESP8266 MQTT模块](zh-cn/ph2.0_sensors/smart_module/esp8266_mqtt/esp8266_mqtt.md)
     - [ESP32 C2 MQTT模块](zh-cn/ph2.0_sensors/smart_module/esp32_c2_mqtt/esp32_c2_mqtt.md)
     - [LD3320语音识别V2.1](zh-cn/ph2.0_sensors/smart_module/speech_recognizer/speech_recognizer.md)
-    - [离线特定语音识别ASR-V2](zh-cn/ph2.0_sensors/smart_module/asr_speech_recognition/asr_speech_recognition.md)
+    - [ASR-V2离线特定语音识别](zh-cn/ph2.0_sensors/smart_module/asr_speech_recognition/asr_speech_recognition.md)
     - [TTS20 语音合成模块](zh-cn/ph2.0_sensors/smart_module/tts20_module/tts20_module.md)
     - [TTS语音合成V2.1](zh-cn/ph2.0_sensors/smart_module/tts_module/text_to_speech_synthesizer.md)
     - [MIDI数字音乐模块](zh-cn/ph2.0_sensors/smart_module/midi/midi.md)
@@ -208,7 +208,7 @@ emakefun文档中心
   - [scratch arcade](https://arcade.blockcode.fun/#/zh-cn/intro)
   - [AI-VOX3](/zh-cn/esp32/ai-vox3/ai-vox3_zh-cn.md)
   - [AI-VOX3扩展板](https://dcnmu33qx4fc.feishu.cn/docx/Cf49d141voj8JAxNyTJcW5zTned)
-  - [ESP32-S3-EXPANSION BOARD](zh-cn/esp32/esp32-s3-expansion_board/esp32-s3-expansion_board.md)
+  - [ESP32-S3 扩展板](zh-cn/esp32/esp32-s3-expansion_board/esp32-s3-expansion_board.md)
 
 - 树莓派
   
